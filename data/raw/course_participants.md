@@ -11,4 +11,4 @@ Student | Yuka |  |
 Student | Sara |  |  
 Student | Henrieke |  |  
 Student | Parvin |  |  
-Student | Elena |  |  
+Student | Elena | Romania | Education Specialist  
