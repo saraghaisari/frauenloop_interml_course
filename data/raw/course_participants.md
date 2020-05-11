@@ -6,7 +6,7 @@ Please add yourself to:
 Role | Name | Country | Occupation
 --- | --- | --- | ---
 Mentor | Laura | Spain | Data Scientist
-Mentor | Sam |  | 
+Mentor | Sam | USA | Data Scientist
 Student | Yuka |  |  
 Student | Sara |  |  
 Student | Henrieke |  |  
